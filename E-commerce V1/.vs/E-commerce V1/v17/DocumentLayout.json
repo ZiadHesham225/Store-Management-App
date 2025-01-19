@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\ui\\categoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\ui\\categoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\ui\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\ui\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\context\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\context\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\models\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\models\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\models\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\models\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\migrations\\20241107224726_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\migrations\\20241107224726_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\migrations\\20241108190220_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\migrations\\20241108190220_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\migrations\\20241108132633_od_total_price_calculated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\migrations\\20241108132633_od_total_price_calculated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|c:\\users\\hesha\\documents\\csharp\\e-commerce v1\\e-commerce v1\\configurations\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C11A3D6B-DBA0-4512-B7D4-8CF2FAFB3E4A}|E-commerce V1\\E-commerce V1.csproj|solutionrelative:e-commerce v1\\configurations\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:55:02.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderUI.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\OrderUI.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\UI\\OrderUI.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\OrderUI.cs",
+              "RelativeToolTip": "E-commerce V1\\UI\\OrderUI.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:27:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\CategoryUI.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\UI\\CategoryUI.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\CategoryUI.cs",
+              "RelativeToolTip": "E-commerce V1\\UI\\CategoryUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:27:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\MainMenu.cs",
+              "RelativeToolTip": "E-commerce V1\\UI\\MainMenu.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAEwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:25:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:57:34.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:55:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\OrderDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\OrderDetailsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:57:10.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:56:44.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\ProductUI.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\UI\\ProductUI.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\UI\\ProductUI.cs",
+              "RelativeToolTip": "E-commerce V1\\UI\\ProductUI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:27:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\Repository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:48:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Program.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Program.cs",
+              "RelativeToolTip": "E-commerce V1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:19:56.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ECommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Context\\ECommerceContext.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Context\\ECommerceContext.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Context\\ECommerceContext.cs",
+              "RelativeToolTip": "E-commerce V1\\Context\\ECommerceContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:14:06.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "E-commerce V1\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:47:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Models\\ValueObjects\\Address.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "E-commerce V1\\Models\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:21:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "E-commerce V1\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:35:45.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "E-commerce V1\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:06:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "E-commerce V1\\Models\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:37:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "E-commerce V1\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:36:21.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Models\\Entities\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Models\\Entities\\OrderDetails.cs",
+              "RelativeToolTip": "E-commerce V1\\Models\\Entities\\OrderDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:57:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241108190220_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241108190220_SeedData.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Migrations\\20241108190220_SeedData.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241108190220_SeedData.cs",
+              "RelativeToolTip": "E-commerce V1\\Migrations\\20241108190220_SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:02:20.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "E-commerce V1\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:34:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241108132633_OD_Total_Price_Calculated.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241108132633_OD_Total_Price_Calculated.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Migrations\\20241108132633_OD_Total_Price_Calculated.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241108132633_OD_Total_Price_Calculated.cs",
+              "RelativeToolTip": "E-commerce V1\\Migrations\\20241108132633_OD_Total_Price_Calculated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:26:33.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241107224726_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241107224726_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Migrations\\20241107224726_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Migrations\\20241107224726_InitialCreate.cs",
+              "RelativeToolTip": "E-commerce V1\\Migrations\\20241107224726_InitialCreate.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwHgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:47:27.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "E-commerce V1\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:51:06.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetailsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\OrderDetailsConfiguration.cs",
+              "RelativeDocumentMoniker": "E-commerce V1\\Configurations\\OrderDetailsConfiguration.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\E-commerce V1\\E-commerce V1\\Configurations\\OrderDetailsConfiguration.cs",
+              "RelativeToolTip": "E-commerce V1\\Configurations\\OrderDetailsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:57:42.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
